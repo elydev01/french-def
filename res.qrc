@@ -1,0 +1,21 @@
+<RCC>
+  <qresource>
+    <file>assets/refresh.png</file>
+    <file>assets/list.png</file>
+    <file>assets/history.png</file>
+    <file>assets/logout.png</file>
+    <file>assets/home.png</file>
+    <file>assets/back-arrow.png</file>
+    <file>assets/information.png</file>
+    <file>assets/info.png</file>
+    <file>assets/info.svg</file>
+    <file>assets/bulb-0.png</file>
+    <file>assets/bulb-1.png</file>
+    <file>assets/book_lover.svg</file>
+    <file>assets/cancel.svg</file>
+    <file>assets/clear.png</file>
+    <file>assets/clear.svg</file>
+    <file>assets/delete.svg</file>
+    <file>assets/menu.png</file>
+  </qresource>
+</RCC>

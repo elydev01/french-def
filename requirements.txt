@@ -1,0 +1,16 @@
+PyQt5
+
+# Build
+auto_py_to_exe
+
+# unitest
+pytest
+coverage
+
+# code formater
+black
+isort
+flake8
+
+# scraper api
+requests

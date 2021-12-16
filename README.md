@@ -1,0 +1,2 @@
+# french-def
+French dictionary
